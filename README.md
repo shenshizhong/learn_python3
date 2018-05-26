@@ -12,3 +12,8 @@ python能干啥，python是一个非常nb的脚本语言。为什么现在这么
 
 # 有问题可以提 issues 
 抛出问题，相信讨论之后，会获得更好的理解
+
+# thanks
+
+* 这里感谢 michaelliao， [https://github.com/michaelliao/learn-python3](https://github.com/michaelliao/learn-python3)
+* 另外本项目中的例子都是亲自码过的，并收集整理总结的，相信对学习 python3 是非常有帮助的
