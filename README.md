@@ -17,3 +17,10 @@ python能干啥，python是一个非常nb的脚本语言。为什么现在这么
 
 * 这里感谢 michaelliao， [https://github.com/michaelliao/learn-python3](https://github.com/michaelliao/learn-python3)
 * 另外本项目中的例子都是亲自码过的，并收集整理总结的，相信对学习 python3 是非常有帮助的
+
+# Donations
+如果它对你帮助很大，那么你可以扫下方二维码随意打赏我，就当是请我喝杯咖啡或是啤酒，我将不胜感激 :-)
+
+![donate][donate]
+
+[donate]: https://github.com/shenshizhong/learn_python3/blob/master/res/ssz.png
